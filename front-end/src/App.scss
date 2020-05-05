@@ -1,0 +1,23 @@
+.App {
+
+
+    .navbar {
+        // border: 1px solid red;
+        height: 40px;
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-end;
+        border-bottom: 1px dashed black;
+        padding-bottom: 10px;
+
+        a {
+            text-decoration: none;
+            color: black;
+            // border: 1px solid purple;
+            padding-left: 50px;
+            padding-right: 20px;
+        
+        }
+    }
+
+}
