@@ -23,6 +23,13 @@
         }
     }
 
+    .form-container{
+        border: 1px solid red;
+        form {
+            display: flex;    
+        }
+    }
+
     .footer {
         // border: 1px solid red;
         height: 30px;

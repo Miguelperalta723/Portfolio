@@ -4,7 +4,7 @@ const Contact = () => {
     const [ sender , setSender] = useState({name: "", email: "", message: ""})
 
     return(
-        <div>
+        <div className="form-container">
             <form>
                 <label>
                     Name
